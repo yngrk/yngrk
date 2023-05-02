@@ -19,7 +19,7 @@ with the goal of building foundational skills to create innovative and meaningfu
 ## 💾 Stats
 <!--- Dark Mode --->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=ayu-mirage&bg_color=00000000&line_height=20&hide_rank=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngrk&theme=ayu-mirage&bg_color=00000000&layout=compact&line_height=25&card_width=312#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngrk&theme=ayu-mirage&bg_color=00000000&layout=compact&line_height=25#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
 <!--- Light Mode --->
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=swift&line_height=20&hide_rank=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
