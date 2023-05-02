@@ -1,6 +1,9 @@
 ## 🚀 Wazzup! I'm Young! 👋
 
-🗿 An aspiring software developer, 📚 currently dedicated to learning web technologies 🌐 and building foundational skills. 💪
+🗿 Aspiring software developer <br>
+📚 Dedicated to learning web technologies <br>
+🌐 Building foundational skills
+ 
 
 ## 🛠️ Skills
 
@@ -10,4 +13,3 @@
 ## 🗿 Stats
 
 ### 📚 My Learning Journey
-
