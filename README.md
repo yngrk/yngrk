@@ -1,9 +1,7 @@
 
-## 🚀 Wazzup! I'm Young! 🗿
+# 🚀 Bonjour, I'm Young! 🗿
 
-🗿 Aspiring software developer <br>
-📚 Dedicated to learning web technologies <br>
-🌐 Building foundational skills
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&color=2EF7C6&multiline=true&repeat=false&width=550&height=80&lines=%F0%9F%97%BF+aspiring+software+developer;%F0%9F%93%9A+learning+web+technologies;%F0%9F%8F%97%EF%B8%8F+building+foundational+skills)](https://git.io/typing-svg)
 
 ## 🛠️ Skills
 
@@ -17,9 +15,10 @@
 
 
 ## 🗿 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=ayu-mirage&bg_color=00000000&line_height=20)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=ayu-mirage&bg_color=00000000&line_height=20&hide_rank=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngrk&theme=ayu-mirage&bg_color=00000000&layout=compact&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- ### 📚 My Learning Journey -->
 
+### 📚 My Learning Journey
+- [ ] Learn Basics of Javascript
 
