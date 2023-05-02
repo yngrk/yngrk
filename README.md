@@ -1,5 +1,5 @@
-<div align="float:left">
-<p style="display: inline-block">
+<div style="display:flex">
+<p>
   🗿 Aspiring software developer <br>
 📚 Dedicated to learning web technologies <br>
 🌐 Building foundational skills
