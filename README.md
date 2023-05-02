@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Aspiring software developer, currently dedicated to learning web technologies and building foundational skills.
+▶︎ Aspiring software developer, currently dedicated to learning web technologies and building foundational skills.
 
 
 ## 🌐 Socials:
