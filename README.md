@@ -1,12 +1,9 @@
 
 ## 🚀 Wazzup! I'm Young! 🗿
 
-
 🗿 Aspiring software developer <br>
 📚 Dedicated to learning web technologies <br>
 🌐 Building foundational skills
-
-<img align="right" height="150px" src="https://media.giphy.com/media/vzO0Vc8b2VBLi/giphy.gif?cid=ecf05e47hrvl9elxifvfu83zu9t7timwzlm0sk6ova8i6qbm&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 ## 🛠️ Skills
 
@@ -20,8 +17,8 @@
 
 
 ## 🗿 Stats
-
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=ayu-mirage&bg_color=00000000&line_height=20)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngrk&theme=ayu-mirage&bg_color=00000000&layout=compact&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 📚 My Learning Journey
 
