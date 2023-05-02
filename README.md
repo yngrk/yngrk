@@ -1,7 +1,9 @@
 
-# 🚀 Bonjour, I'm Young! 🗿
+# 🚀 Hello, I'm Young! 🗿
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=00C39D&background=FFFFFF00&vCenter=true&width=450&lines=%F0%9F%97%BF+aspiring+software+developer;%F0%9F%93%9A+learning+web+technologies;%F0%9F%8F%97%EF%B8%8F+building+foundational+skills)](https://git.io/typing-svg)
+Aspiring software developer currently focused on learning web technologies <br>
+with the goal of building foundational skills to create innovative and meaningful projects.
+
 
 ## 🛠️ Skills
 
@@ -15,5 +17,10 @@
 
 
 ## 🗿 Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=ayu-mirage&bg_color=00000000&line_height=20&hide_rank=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngrk&theme=ayu-mirage&bg_color=00000000&layout=compact&line_height=25&card_width=312)](https://github.com/anuraghazra/github-readme-stats)
+<!--- Dark Mode --->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=ayu-mirage&bg_color=00000000&line_height=20&hide_rank=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngrk&theme=ayu-mirage&bg_color=00000000&layout=compact&line_height=25&card_width=312#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+
+<!--- Light Mode --->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=swift&line_height=20&hide_rank=true#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngrk&theme=swift&layout=compact&line_height=25&card_width=312#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
