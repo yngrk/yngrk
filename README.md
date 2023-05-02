@@ -1,7 +1,7 @@
 
 # 🚀 Bonjour, I'm Young! 🗿
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=2EF7C6&width=550&height=40&lines=%F0%9F%97%BF+aspiring+software+developer;%F0%9F%93%9A+learning+web+technologies;%F0%9F%8F%97%EF%B8%8F+building+foundational+skills)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=1500&pause=1000&color=00C39D&background=FFFFFF00&vCenter=true&width=450&lines=%F0%9F%97%BF+aspiring+software+developer;%F0%9F%93%9A+learning+web+technologies;%F0%9F%8F%97%EF%B8%8F+building+foundational+skills)](https://git.io/typing-svg)
 
 ## 🛠️ Skills
 
