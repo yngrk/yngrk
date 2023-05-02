@@ -20,5 +20,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=yngrk&show_icons=true&theme=ayu-mirage&bg_color=00000000&line_height=20)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yngrk&theme=ayu-mirage&bg_color=00000000&layout=compact&line_height=25)](https://github.com/anuraghazra/github-readme-stats)
 
-### 📚 My Learning Journey
+<!-- ### 📚 My Learning Journey -->
+
 
