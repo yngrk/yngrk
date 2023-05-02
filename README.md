@@ -1,7 +1,7 @@
 
 # 🚀 Hello, I'm Young! 🗿
 
-Aspiring software developer currently focused on learning web technologies <br>
+Aspiring software developer 🗿 currently focused on learning web technologies <br>
 with the goal of building foundational skills to create innovative and meaningful projects.
 
 
