@@ -16,3 +16,22 @@ with the goal of building foundational skills to create innovative and meaningfu
 | Version Control | ![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)![Github](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white) |
 
 
+## 💼 My Projects
+
+### CCAT - Currency Converter and Tracker
+CCAT is a web application that allows users to convert currencies, track historical data, and manage their personalized watchlist.
+  - Technologies used: Vue, Inertia, Laravel, MySQL, Tailwind CSS
+  - GitHub repository: https://github.com/yngrk/ccat
+  - Live Demo: https://ccat.fly.dev
+     
+### Neowave
+Neowave is a simple single-page application (SPA) showcasing a fictitious company called Neowave.
+  - Technologies used: Vue, Tailwind CSS
+  - Github repository: https://github.com/yngrk/neowave-spa
+  - Live Demo: https://yngrk.github.io/neowave-spa/
+
+### League Champion Lore
+League Champion Lore is a web application that provides a simple and straightforward way to explore the lore of League of Legends Champions.
+  - Technologies used: Vue, Tailwind CSS
+  - Github repository: https://github.com/yngrk/league-champion-overview
+  - Live Demo: https://yngrk.github.io/league-champion-overview/
