@@ -37,6 +37,11 @@ Neowave is a simple single-page application (SPA) showcasing a fictitious compan
   - Github repository: https://github.com/yngrk/neowave-spa
   - Live Demo: https://yngrk.github.io/neowave-spa/
 
+<div style="display:flex;">
+  <img src="https://github.com/yngrk/yngrk/blob/main/neowave1.png?raw=true" width=300 />
+  <img src="https://github.com/yngrk/yngrk/blob/main/neowave2.png?raw=true" width=300 />
+</div>
+
 ### League Champion Lore
 League Champion Lore is a web application that provides a simple and straightforward way to explore the lore of League of Legends Champions.
   - Technologies used: Vue, Tailwind CSS
