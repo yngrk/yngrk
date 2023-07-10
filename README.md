@@ -27,8 +27,9 @@ CCAT is a web application that allows users to convert currencies, track histori
   - Live Demo: https://ccat.fly.dev
 
 <div style="display:flex;">
-  <img src="https://github.com/yngrk/yngrk/blob/main/ccat1.png?raw=true" width=300 />
-  <img src="https://github.com/yngrk/yngrk/blob/main/ccat2.png?raw=true" width=300 />
+  <img src="https://github.com/yngrk/yngrk/blob/main/ccat1.png?raw=true" height=300 />
+  <img src="https://github.com/yngrk/yngrk/blob/main/ccat2.png?raw=true" height=300 />
+  <img src="https://github.com/yngrk/yngrk/blob/main/ccatm.png?raw=true" height=300 />
 </div>
      
 ### Neowave
@@ -38,8 +39,9 @@ Neowave is a simple single-page application (SPA) showcasing a fictitious compan
   - Live Demo: https://yngrk.github.io/neowave-spa/
 
 <div style="display:flex;">
-  <img src="https://github.com/yngrk/yngrk/blob/main/neowave1.png?raw=true" width=300 />
-  <img src="https://github.com/yngrk/yngrk/blob/main/neowave2.png?raw=true" width=300 />
+  <img src="https://github.com/yngrk/yngrk/blob/main/neowave1.png?raw=true" height=300 />
+  <img src="https://github.com/yngrk/yngrk/blob/main/neowave2.png?raw=true" height=300 />
+  <img src="https://github.com/yngrk/yngrk/blob/main/neowavem.png?raw=true" height=300 />
 </div>
 
 ### League Champion Lore
