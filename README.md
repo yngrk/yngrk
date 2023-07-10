@@ -19,7 +19,14 @@ with the goal of building foundational skills to create innovative and meaningfu
 ## 💼 My Projects
 
 ### CCAT - Currency Converter and Tracker
+
 CCAT is a web application that allows users to convert currencies, track historical data, and manage their personalized watchlist.
+
+<div style="display:flex;">
+  <img src="https://github.com/yngrk/yngrk/blob/main/ccat1.png?raw=true" width=300 />
+  <img src="https://github.com/yngrk/yngrk/blob/main/ccat2.png?raw=true" width=300 />
+</div>
+
   - Technologies used: Vue, Inertia, Laravel, MySQL, Tailwind CSS
   - GitHub repository: https://github.com/yngrk/ccat
   - Live Demo: https://ccat.fly.dev
